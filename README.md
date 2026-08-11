@@ -7,3 +7,7 @@
 | 🔍 五朝榫卯 | 2026 中国计算机设计大赛 | 中国古代建筑主题 2D 解密游戏 | Unity, C# | 代码框架设计、交互解密逻辑 | 🏆 省级一等奖 / 国家级三等奖 |
 | 💬 [新闻编辑室](https://github.com/Bickye050822/newsroom) | 2026 CGJ | 解密新闻逻辑的解密游戏 | Unity, C# | 文本-音频匹配、UI 业务、方案设计 | |
 | ⚔️ [TwoPeople](https://github.com/Bickye050822/TwoPeople) | 结课作业 | 2D PVE 联机游戏 | Unity, C#, Photon, XLua, MySQL | 单人完整实现 | |
+
+| 项目 | 简介 | 技术栈 | 核心工作 |
+|------|------|--------|----------|
+| 🛠️ [Until_c](https://github.com/Bickye050822/Until_c) | Unity编辑器扩展工具集，核心模块实现CSV一键批量生成ScriptableObject配置资产。自动识别数据结构，支持基础类型、向量、枚举、资源引用、集合数组，提供可视化导入面板，自动清理失效配置 | Unity, C#（Editor扩展） | 独立设计自定义特性映射体系、CSV解析引擎、自动化导入管线；开发编辑器交互界面，兼容多编码、多分隔符，实现两种SO生成模式自动适配 |
