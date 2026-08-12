@@ -10,4 +10,4 @@
 
 | 项目 | 简介 | 技术栈 | 核心工作 |
 |------|------|--------|----------|
-| 🛠️ [Until_c](https://github.com/Bickye050822/Until_c) | Unity编辑器扩展工具集，核心模块实现CSV一键批量生成ScriptableObject配置资产。自动识别数据结构，支持基础类型、向量、枚举、资源引用、集合数组，提供可视化导入面板，自动清理失效配置 | Unity, C#（Editor扩展） | 独立设计自定义特性映射体系、CSV解析引擎、自动化导入管线；开发编辑器交互界面，兼容多编码、多分隔符，实现两种SO生成模式自动适配 |
+| 🛠️ [Until_c](https://github.com/Bickye050822/Until_c) | Unity 编辑器扩展工具集，含三大模块：① CSV 一键导入 ScriptableObject；② 素材合并与切割（散图合图集 / 大图网格切片，一条流程生成 Multiple Sprite）；③ 素材变逐帧动画（Sprite 序列生成 AnimationClip，可选 AnimatorController，支持 SpriteRenderer / UI Image） | Unity, C#（Editor 扩展） | 独立设计 CSV 特性映射、解析引擎与双模式自动导入管线；实现图集网格装箱与 Sprite 切片写入；基于 ObjectReference 曲线生成逐帧动画与可选 Controller；中文编辑器界面，兼容 Unity 2021.3+ / Unity 6 |
